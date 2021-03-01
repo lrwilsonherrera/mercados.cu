@@ -244,7 +244,7 @@
                     </div>
                     <div class="wow-pricing-content">
                         <br>
-                        <img class="img-fluid" src="{{ asset('assets/img/mercabal/mercabal.jpg"') }} alt=""/>
+                        <img class="img-fluid" src="{{ asset('assets/img/mercabal/mercabal.jpg') }}" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
                         <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span

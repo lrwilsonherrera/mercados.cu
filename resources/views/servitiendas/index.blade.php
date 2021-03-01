@@ -85,7 +85,7 @@
 
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
+                        <a href="https://tienda.cinet.cu" class="wow-button buttonprice" target="_self" rel="nofollow"><span
                                 class="wow-button-inner">Entrar</span></a>
                     </div>
                 </div>
@@ -101,7 +101,7 @@
                         <img class="img-fluid" src="{{ asset('assets/img/servitienda/servitienda_eiesa.jpg') }}" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
+                        <a href="https://eiesa.unitiendas.cinet.cu" class="wow-button buttonprice" target="_self" rel="nofollow"><span
                                 class="wow-button-inner">Entrar</span></a>
                     </div>
                 </div>

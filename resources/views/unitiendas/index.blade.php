@@ -332,7 +332,7 @@
                         <img class="img-fluid" src="{{ asset('assets/img/unitienda/guantanamo.jpg') }}" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
+                        <a href="https://gtm.unitiendas.cinet.cu/" class="wow-button buttonprice" target="_self" rel="nofollow"><span
                                 class="wow-button-inner">Entrar</span></a>
                     </div>
                 </div>
