@@ -91,7 +91,7 @@
             </div>
             <div class="col-lg-4 col-md-6 text-center">
                 <div class="service-box">
-                    <a href="#"><img class="img-fluid fa-border" src="{{ asset('assets/img/bulevar/bulevar_ensucasa.jpg') }}" alt=""/></a>
+                    <a href="https://ensucasa.comerciogtm.co.cu"><img class="img-fluid fa-border" src="{{ asset('assets/img/bulevar/bulevar_ensucasa.jpg') }}" alt=""/></a>
                     <!--<h3><a href="unitiendas.html">Unitiendas</a></h3>-->
                     <hr>
                     <p class="text-muted">
