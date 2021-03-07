@@ -13,7 +13,7 @@ body {
 
 hr {
     max-width: 50px;
-    border-color: #136689;
+    /*border-color: #136689;*/
     border-width: 3px;
 }
 
@@ -21,10 +21,19 @@ hr.light {
     border-color: #fff;
 }
 hr.bodega {
-    border-color: #d6e772;
+    border-color: #f7ae11;
 }
 hr.mercabal {
-    border-color: #148940;
+    border-color: #0f7341;
+}
+hr.unitienda {
+    border-color: #128290;
+}
+hr.servitienda {
+    border-color: #128290;
+}
+hr.casa {
+    border-color: #6f0007;
 }
 
 a {
@@ -924,38 +933,87 @@ body {
 .wow-pricing-table > div.featured {
 }
 
-.wow-pricing-table > div.featured .wow-pricing-header {
+/*.wow-pricing-table > div.featured .wow-pricing-header {*/
+    /*background-color: #136689;*/
+    /*!*padding: 30px 10px 30px 10px;*!*/
+    /*border-top-left-radius: 50%;*/
+    /*border-top-right-radius: 50%;*/
+/*}*/
+.wow-pricing-table > div.unitienda .wow-pricing-header {
+    color: #fff;
+    background-color: #128290;
+    /*padding: 30px 10px 30px 10px;*/
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+.wow-pricing-table > div.unitienda-featured .wow-pricing-header {
+    color: #4d4948;
+    background-color: #fffbdb;
+    /*padding: 30px 10px 30px 10px;*/
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+.wow-pricing-table > div.servitienda .wow-pricing-header {
+    color: #fff;
     background-color: #136689;
     /*padding: 30px 10px 30px 10px;*/
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
 }
-.wow-pricing-table > div.bodega .wow-pricing-header {
-    background-color: #890808;
-    /*padding: 30px 10px 30px 10px;*/
-    border-top-left-radius: 50%;
-    border-top-right-radius: 50%;
-}
-.wow-pricing-table > div.bodega-featured .wow-pricing-header {
-    background-color: #d6e772;
-    /*color: #000000;*/
+.wow-pricing-table > div.servitienda-featured .wow-pricing-header {
+    color: #4d4948;
+    background-color: #cfcfcf;
     /*padding: 30px 10px 30px 10px;*/
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
 }
 .wow-pricing-table > div.mercabal .wow-pricing-header {
-    background-color: #148940;
+    color: #ffffff;
+    background-color: #0f7341;
     /*padding: 30px 10px 30px 10px;*/
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
 }
 .wow-pricing-table > div.mercabal-featured .wow-pricing-header {
-    background-color: #d6e772;
+    background-color: #dce386;
+    color: #000000;
+    /*padding: 30px 10px 30px 10px;*/
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+
+.wow-pricing-table > div.bodega .wow-pricing-header {
+    color: #000000;
+    background-color: #f7ae11;
+    /*padding: 30px 10px 30px 10px;*/
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+.wow-pricing-table > div.bodega-featured .wow-pricing-header {
+    color: #ffffff;
+    background-color: #000000;
     /*color: #000000;*/
     /*padding: 30px 10px 30px 10px;*/
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
 }
+
+.wow-pricing-table > div.casa .wow-pricing-header {
+    color: #ffffff;
+    background-color: #6f0007;
+    /*padding: 30px 10px 30px 10px;*/
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+.wow-pricing-table > div.casa-featured .wow-pricing-header {
+    color: #000000;
+    background-color: #fef300;
+    /*color: #000000;*/
+    /*padding: 30px 10px 30px 10px;*/
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+
 
 /*.wow-pricing {*/
 /*!*border: 1px solid;*!*/
@@ -975,7 +1033,7 @@ body {
 }
 
 .wow-pricing-table .wow-pricing-header h5 {
-    color: #fff;
+    /*color: #fff;*/
     font-size: 20px;
     margin: 0;
     padding: 0 20px 0px;
@@ -1038,20 +1096,58 @@ body {
 .featured .wow-pricing-per, .featured .wow-pricing-cost, .featured .wow-pricing-button .wow-button, .buttoncolor {
     background-color: #136689;
 }
-.bodega .wow-pricing-per, .bodega .wow-pricing-cost, .bodega .wow-pricing-button .wow-button, .buttoncolor {
-    background-color: #890808;
+
+.unitienda .wow-pricing-per, .unitienda .wow-pricing-cost, .unitienda .wow-pricing-button .wow-button, .buttoncolor {
+    color: #fff;
+    background-color: #128290;
 }
-.bodega-featured .wow-pricing-per, .bodega-featured .wow-pricing-cost, .bodega-featured .wow-pricing-button .wow-button, .buttoncolor {
-    background-color: #d6e772;
+.unitienda-featured .wow-pricing-per, .unitienda-featured .wow-pricing-cost, .unitienda-featured .wow-pricing-button .wow-button, .buttoncolor {
+    color: #4d4948;
+    background-color: #fffbdb;
     /*color: #000000;*/
 }
+
+.servitienda .wow-pricing-per, .servitienda .wow-pricing-cost, .servitienda .wow-pricing-button .wow-button, .buttoncolor {
+    color: #fff;
+    background-color: #136689;
+}
+.servitienda-featured .wow-pricing-per, .servitienda-featured .wow-pricing-cost, .servitienda-featured .wow-pricing-button .wow-button, .buttoncolor {
+    color: #4d4948;
+    background-color: #cfcfcf;
+    /*color: #000000;*/
+}
+
 .mercabal .wow-pricing-per, .mercabal .wow-pricing-cost, .mercabal .wow-pricing-button .wow-button, .buttoncolor {
-    background-color: #148940;
+    color: #ffffff;
+    background-color: #0f7341;
 }
 .mercabal-featured .wow-pricing-per, .mercabal-featured .wow-pricing-cost, .mercabal-featured .wow-pricing-button .wow-button, .buttoncolor {
-    background-color: #d6e772;
+    color: #4d4948;
+    background-color: #dce386;
     /*color: #000000;*/
 }
+
+.bodega .wow-pricing-per, .bodega .wow-pricing-cost, .bodega .wow-pricing-button .wow-button, .buttoncolor {
+    color: #000000;
+    background-color: #f7ae11;
+}
+.bodega-featured .wow-pricing-per, .bodega-featured .wow-pricing-cost, .bodega-featured .wow-pricing-button .wow-button, .buttoncolor {
+    color: #ffffff;
+    background-color: #000000;
+    /*color: #000000;*/
+}
+
+.casa .wow-pricing-per, .casa .wow-pricing-cost, .casa .wow-pricing-button .wow-button, .buttoncolor {
+    color: #ffffff;
+
+    background-color: #6f0007;
+}
+.casa-featured .wow-pricing-per, .casa-featured .wow-pricing-cost, .casa-featured .wow-pricing-button .wow-button, .buttoncolor {
+    color: #000000;
+    background-color: #fef300;
+    /*color: #000000;*/
+}
+
 
 .wow-pricing-table .wow-pricing-content img {
     width: 100%;
@@ -1419,9 +1515,9 @@ input.error, textarea.error {
 /*====*/
 /* Media Queries
 --------------------------------------------------------------------------------------------------------------- */
-@-ms-viewport {
-    width: device-width;
-}
+/*@-ms-viewport {*/
+    /*width: device-width;*/
+/*}*/
 
 /* Max Wrapper Width - Laptop, Desktop etc.
 --------------------------------------------------------------------------------------------------------------- */

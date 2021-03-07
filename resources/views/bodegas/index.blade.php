@@ -3,15 +3,9 @@
 <head>
     <meta charset="utf-8">
     <title>Mercados.cu</title>
-    <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}" type="text/css">
-    <!-- Custom Fonts -->
-    <!--<link href='https://fonts.googleapis.com/css?family=Mrs+Sheppards%7CDosis:300,400,700%7COpen+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800;'-->
-    <!--rel='stylesheet' type='text/css'>-->
     <link rel="stylesheet" href="{{ asset('assets/font-awesome/css/font-awesome.min.css') }}" type="text/css">
-    <!-- Plugin CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/animate.min.css') }}" type="text/css">
-    <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}" type="text/css">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -25,15 +19,13 @@
     <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header" style="height: 80px">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-                    data-target="#bs-example-navbar-collapse-1">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                 <span class="sr-only">Menu</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="{{ url('/') }}"><img src="{{ asset('assets/img/logomercados1.png') }}" alt="logo"
-                                                                       style="width: 80px; height: auto; padding: 0px"></a>
+            <a class="navbar-brand page-scroll" href="{{ url('/') }}"><img src="{{ asset('assets/img/logomercados1.png') }}" alt="logo" style="width: 80px; height: auto; padding: 0px"></a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -64,8 +56,6 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <!--<h2 class="section-heading"><b>Universales</b></h2>-->
-                <!--<hr class="primary">-->
                 <br/>
             </div>
         </div>
@@ -83,8 +73,11 @@
 
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
-                                class="wow-button-inner">Entrar</span></a>
+                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow">
+                            <span class="wow-button-inner">
+                                <b>Entrar</b>
+                            </span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -99,8 +92,11 @@
                         <img class="img-fluid" src="{{ asset('assets/img/bodega/bodega.jpg') }}" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
-                                class="wow-button-inner">Entrar</span></a>
+                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow">
+                            <span class="wow-button-inner">
+                                <b>Entrar</b>
+                            </span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -115,8 +111,11 @@
                         <img class="img-fluid" src="{{ asset('assets/img/bodega/bodega.jpg') }}" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
-                                class="wow-button-inner">Entrar</span></a>
+                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow">
+                            <span class="wow-button-inner">
+                                <b>Entrar</b>
+                            </span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -130,8 +129,11 @@
                         <img class="img-fluid" src="{{ asset('assets/img/bodega/bodega.jpg') }}" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
-                                class="wow-button-inner">Entrar</span></a>
+                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow">
+                            <span class="wow-button-inner">
+                                <b>Entrar</b>
+                            </span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -149,8 +151,11 @@
                         <img class="img-fluid" src="{{ asset('assets/img/bodega/bodega.jpg') }}" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
-                                class="wow-button-inner">Entrar</span></a>
+                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow">
+                            <span class="wow-button-inner">
+                                <b>Entrar</b>
+                            </span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -165,8 +170,11 @@
                         <img class="img-fluid" src="{{ asset('assets/img/bodega/bodega.jpg') }}" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
-                                class="wow-button-inner">Entrar</span></a>
+                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow">
+                            <span class="wow-button-inner">
+                                <b>Entrar</b>
+                            </span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -181,8 +189,11 @@
                         <img class="img-fluid" src="{{ asset('assets/img/bodega/bodega.jpg') }}" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
-                                class="wow-button-inner">Entrar</span></a>
+                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow">
+                            <span class="wow-button-inner">
+                                <b>Entrar</b>
+                            </span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -196,8 +207,11 @@
                         <img class="img-fluid" src="{{ asset('assets/img/bodega/bodega.jpg') }}" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
-                                class="wow-button-inner">Entrar</span></a>
+                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow">
+                            <span class="wow-button-inner">
+                                <b>Entrar</b>
+                            </span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -215,8 +229,11 @@
                         <img class="img-fluid" src="{{ asset('assets/img/bodega/bodega.jpg') }}" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
-                                class="wow-button-inner">Entrar</span></a>
+                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow">
+                            <span class="wow-button-inner">
+                                <b>Entrar</b>
+                            </span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -231,8 +248,11 @@
                         <img class="img-fluid" src="{{ asset('assets/img/bodega/bodega.jpg') }}" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
-                                class="wow-button-inner">Entrar</span></a>
+                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow">
+                            <span class="wow-button-inner">
+                            <b>Entrar</b>
+                            </span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -247,8 +267,11 @@
                         <img class="img-fluid" src="{{ asset('assets/img/bodega/bodega.jpg') }}" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
-                                class="wow-button-inner">Entrar</span></a>
+                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow">
+                            <span class="wow-button-inner">
+                                <b>Entrar</b>
+                            </span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -262,8 +285,11 @@
                         <img class="img-fluid" src="{{ asset('assets/img/bodega/bodega.jpg') }}" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
-                                class="wow-button-inner">Entrar</span></a>
+                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow">
+                            <span class="wow-button-inner">
+                                <b>Entrar</b>
+                            </span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -281,8 +307,10 @@
                         <img class="img-fluid" src="{{ asset('assets/img/bodega/bodega.jpg') }}" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
-                                class="wow-button-inner">Entrar</span></a>
+                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow">
+                            <span class="wow-button-inner">
+                                <b>Entrar</b>
+                            </span></a>
                     </div>
                 </div>
             </div>
@@ -297,8 +325,11 @@
                         <img class="img-fluid" src="{{ asset('assets/img/bodega/bodega.jpg') }}" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
-                                class="wow-button-inner">Entrar</span></a>
+                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow">
+                            <span class="wow-button-inner">
+                                <b>Entrar</b>
+                            </span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -313,8 +344,11 @@
                         <img class="img-fluid" src="{{ asset('assets/img/bodega/bodega.jpg') }}" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
-                                class="wow-button-inner">Entrar</span></a>
+                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow">
+                            <span class="wow-button-inner">
+                                <b>Entrar</b>    
+                            </span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -329,8 +363,11 @@
                         />
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow"><span
-                                class="wow-button-inner">Entrar</span></a>
+                        <a href="#" class="wow-button buttonprice" target="_self" rel="nofollow">
+                            <span class="wow-button-inner">
+                                <b>Entrar</b>
+                            </span>
+                        </a>
                     </div>
                 </div>
             </div>
