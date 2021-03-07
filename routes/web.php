@@ -18,19 +18,19 @@ Route::get('/', function () {
 });
 
 Route::get('/unitiendas', function () {
-    return view('unitiendas.index');
+    return view('unitiendas');
 })->name('unitiendas');
 
 Route::get('/servitienda', function () {
-    return view('servitiendas.index');
+    return view('servitiendas');
 })->name('servitienda');
 
 Route::get('/mercabal', function () {
-    return view('mercabal.index');
+    return view('mercabal');
 })->name('mercabal');
 
 Route::get('/bodegas', function () {
-    return view('bodegas.index');
+    return view('bodegas');
 })->name('bodegas');
 
 Route::get('/dashboard', function () {
