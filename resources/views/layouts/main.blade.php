@@ -81,11 +81,11 @@
     </main>
     <footer>
         <!-- Footer Start-->
-        <div class="footer-area footer-padding" style="background-color: #272a52;">
-            <div class="container">
-                <div class="row d-flex justify-content-between">
-                    <img src="assets/img/logo/logo.png" alt="">
-                  
+        <div class="footer-area" style="background-color: #272a52;">
+            <div class="d-flex justify-content-center">
+                <div class="d-flex align-items-center flex-column">
+                    <img src="assets/img/logo/logomercados2.png" class="pt-5" style="width: 100px; height: auto;" alt="">
+                    <p style="color: #fff;">© 2021 Cedipad. Todos los derechos reservados.</p>                  
                 </div>
                 <!-- Footer bottom -->
             

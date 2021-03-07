@@ -28,18 +28,17 @@
                         
                     </div>
                 </div>
-                <div class="row justify-content-md-center">
+                <div class="row justify-content-md-center"> 
                     <div class="col-12 col-md-6">
                         <div class="single-place mb-30 text-center">
                             <div class="place-img p-5">
-                                <a href="{{ route('unitiendas') }}"><img class="fa-border w-50 h-auto" src="assets/img/service/services1.jpg" alt=""></a>
+                                <a href="{{ route('bodegas') }}"><img class="fa-border w-50 h-auto" src="assets/img/service/services4.jpg" alt=""></a>
                             </div>
                             <div class="d-inline-block bg-info mb-2" style="width: 125px; height: 5px;"></div>
-                            <p>Un universo de tiendas al alcance de tu mirada, 
-                                        con ofertas de productos industriales de forma mayorista.</p>
+                            <p>Acercamos a usted la canasta básica normada, con la facilidad de pagos en línea, mensajería y rapidez en el tiempo de entrega.</p>
                                     
                         </div>
-                    </div>
+                    </div>                   
                     <div class="col-12 col-md-6">
                         <div class="single-place mb-30 text-center">
                             <div class="place-img p-5">
@@ -63,17 +62,18 @@
                                           visual y producciones gráficas. </p>
                                     
                         </div>
-                    </div>
+                    </div>     
                     <div class="col-12 col-md-6">
                         <div class="single-place mb-30 text-center">
                             <div class="place-img p-5">
-                                <a href="{{ route('bodegas') }}"><img class="fa-border w-50 h-auto" src="assets/img/service/services4.jpg" alt=""></a>
+                                <a href="{{ route('unitiendas') }}"><img class="fa-border w-50 h-auto" src="assets/img/service/services1.jpg" alt=""></a>
                             </div>
                             <div class="d-inline-block bg-info mb-2" style="width: 125px; height: 5px;"></div>
-                            <p>Acercamos a usted la canasta básica normada, con la facilidad de pagos en línea, mensajería y rapidez en el tiempo de entrega.</p>
+                            <p>Un universo de tiendas al alcance de tu mirada, 
+                                        con ofertas de productos industriales de forma mayorista.</p>
                                     
                         </div>
-                    </div>
+                    </div>	               
                     <div class="col-12 col-md-6">
                         <div class="single-place mb-30 text-center">
                             <div class="place-img p-5">
@@ -83,7 +83,7 @@
                             <p>Te proponemos de forma mayorista productos alimentarios, donde la calidad es garantía y cantidad la porción que buscabas.</p>
                                     
                         </div>
-                    </div>					
+                    </div>	                   			
                 
                 </div>
             </div>
