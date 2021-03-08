@@ -121,7 +121,7 @@
                     </div>
                     <div class="wow-pricing-content">
                         <br>
-                        <img class="img-fluid" src="assets/img/unitienda/pinar.jpg" alt=""/>
+                        <img class="img-fluid" src="assets/img/unitienda/villa_clara.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
                         <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
