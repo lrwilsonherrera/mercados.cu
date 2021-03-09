@@ -3,14 +3,14 @@
 @section('title', 'Inicio')
 
 @section('nav')
-    <x-nav :type="'tiendas'" :menu="'unitienda'"></x-nav>
+    <x-nav :type="'tiendas'" :menu="'ensucasa'"></x-nav>
 @endsection
 
 @section('slider')
     @parent
 
     <section class="p-0">
-        <img src="assets/img/banner/banner_unitienda.jpg" class="mx-auto d-block img-fluid">
+        <img src="assets/img/banner/banner_ensucasa.png" class="mx-auto d-block img-fluid">
     </section>
 @endsection
 
@@ -22,7 +22,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="section-tittle text-center mb-5">                            
-                    <h2 class="text-muted mb-0">TIENDAS</h2>
+                    <h2 class="text-muted mb-0">RESTAURANTES</h2>
                     <div class="d-inline-block bg-info" style="width: 125px; height: 7px;"></div>
                 </div>
                 
@@ -222,7 +222,7 @@
                         <img class="img-fluid" src="assets/img/unitienda/santiago.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="https://scu.unitiendas.cinet.cu" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>

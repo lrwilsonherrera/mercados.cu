@@ -53,7 +53,7 @@
                     <div class="col-12 col-md-6">
                         <div class="single-place mb-30 text-center">
                             <div class="place-img p-5">
-                                <a href="{{ route('servitienda') }}"><img class="fa-border w-50 h-auto" src="assets/img/service/services2.jpg" alt=""></a>
+                                <a href="{{ route('servitienda') }}"><img class="fa-border w-50 h-autox" src="assets/img/service/services2.jpg" alt=""></a>
                             </div>
                             <div class="d-inline-block bg-info mb-2" style="width: 125px; height: 5px;"></div>
                             <p>Sin límites de expansión para tu comodidad te ofrecemos

@@ -11,7 +11,7 @@
                 <li><a class="page-scroll" @if($menu == 'servitienda') style="color: #136689"; @endif href="{{ route('servitienda') }}">SERVITIENDAS</a></li>
                 <li><a class="page-scroll" @if($menu == 'mercabal') style="color: #136689"; @endif href="{{ route('mercabal') }}">MERCABAL</a></li>
                 <li><a class="page-scroll " @if($menu == 'bodegas') style="color: #136689"; @endif href="{{ route('bodegas') }}">BODEGAS</a>
-                <li><a class="page-scroll" href="https://ensucasa.comerciogtm.co.cu">ENSUCASA</a>
+                <li><a class="page-scroll" @if($menu == 'ensucasa') style="color: #136689"; @endif href="{{ route('ensucasa') }}">ENSUCASA</a>
             @endif   
                 
         </ul>

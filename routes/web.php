@@ -33,6 +33,10 @@ Route::get('/bodegas', function () {
     return view('bodegas');
 })->name('bodegas');
 
+Route::get('/ensucasa', function () {
+    return view('ensucasa');
+})->name('ensucasa');
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth'])->name('dashboard');
