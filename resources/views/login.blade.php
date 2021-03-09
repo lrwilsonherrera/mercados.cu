@@ -3,7 +3,7 @@
 @section('title', 'Entrar')
 
 @section('nav')
-    <x-nav :type="'entrar'" :menu="'entrar'"></x-nav>
+    <x-nav :type="'inicio'" :menu="'entrar'"></x-nav>
 @endsection
 
 @section('slider')

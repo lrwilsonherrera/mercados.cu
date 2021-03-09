@@ -19,7 +19,7 @@
 
   <div class="col-md-12">
   <div class="section-tittle text-center mb-6">                            
-        <h2 class="text-muted mb-0">Autenticar</h2>
+        <h2 class="text-muted mb-0">Registrar</h2>
         <br>
         <div class="d-flex align-items-center flex-column" > 
             <form class="formulario">

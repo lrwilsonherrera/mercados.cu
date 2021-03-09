@@ -2,10 +2,10 @@
     <nav>               
         <ul id="navigation"> 
             @if ($type == 'inicio')
-                <li><a class="page-scroll" @if ($menu == 'inicio') style="color: #136689"; @endif href="#page-top">Inicio</a></li>
-                <li><a class="page-scroll" @if ($menu == 'bulevar') style="color: #136689"; @endif href="#bulevar">Bulevar</a></li>
+                <li><a class="page-scroll" @if ($menu == 'inicio') style="color: #136689"; @endif href="{{ url('/') }}#page-top" >Inicio</a></li>
+                <li><a class="page-scroll" @if ($menu == 'bulevar') style="color: #136689"; @endif href="{{ url('/') }}#bulevar">Bulevar</a></li>
                 <li><a class="page-scroll" @if ($menu == 'entrar') style="color: #136689";  @endif href="{{ route('login') }}">Entrar</a></li>
-                <li><a class="page-scroll" @if ($menu == 'registrarse') style="color: #136689"; @endif href="{{ route('signup') }}">Registrarse</a></li>
+                <li><a class="page-scroll" @if ($menu == 'registrarse') style="color: #136689"; @endif href="{{ route('register') }}">Registrarse</a></li>
             @elseif($type == 'tiendas')
                 <li><a class="page-scroll" @if($menu == 'unitienda') style="color: #136689"; @endif href="{{ route('unitiendas') }}">UNITIENDAS</a></li>
                 <li><a class="page-scroll" @if($menu == 'servitienda') style="color: #136689"; @endif href="{{ route('servitienda') }}">SERVITIENDAS</a></li>
