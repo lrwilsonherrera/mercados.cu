@@ -32,7 +32,7 @@
                     <div class="col-12 col-md-6">
                         <div class="single-place mb-30 text-center">
                             <div class="place-img p-5">
-                                <a href="{{ route('bodegas') }}"><img class="fa-border w-50 h-auto" src="assets/img/service/services4.jpg" alt=""></a>
+                                <a href="{{ route('bodegas') }}"><img class="fa-border w-51 h-auto" src="assets/img/service/services4.jpg" alt=""></a>
                             </div>
                             <div class="d-inline-block bg-info mb-2" style="width: 125px; height: 5px;"></div>
                             <p>Acercamos a usted la canasta básica normada, con la facilidad de pagos en línea, mensajería y rapidez en el tiempo de entrega.</p>
@@ -42,7 +42,7 @@
                     <div class="col-12 col-md-6">
                         <div class="single-place mb-30 text-center">
                             <div class="place-img p-5">
-                                <a href="{{ route('ensucasa') }}"><img class="fa-border w-50 h-auto" src="assets/img/service/services5.jpg" alt=""></a>
+                                <a href="{{ route('ensucasa') }}"><img class="fa-border w-51 h-auto" src="assets/img/service/services5.jpg" alt=""></a>
                             </div>
                             <div class="d-inline-block bg-info mb-2" style="width: 125px; height: 5px;"></div>
                             <p>Desde cualquier parte del mundo reserva variadas ofertas gastronómicas,
@@ -53,7 +53,7 @@
                     <div class="col-12 col-md-6">
                         <div class="single-place mb-30 text-center">
                             <div class="place-img p-5">
-                                <a href="{{ route('servitienda') }}"><img class="fa-border w-50 h-autox" src="assets/img/service/services2.jpg" alt=""></a>
+                                <a href="{{ route('servitienda') }}"><img class="fa-border w-51 h-autox" src="assets/img/service/services2.jpg" alt=""></a>
                             </div>
                             <div class="d-inline-block bg-info mb-2" style="width: 125px; height: 5px;"></div>
                             <p>Sin límites de expansión para tu comodidad te ofrecemos
@@ -66,7 +66,7 @@
                     <div class="col-12 col-md-6">
                         <div class="single-place mb-30 text-center">
                             <div class="place-img p-5">
-                                <a href="{{ route('unitiendas') }}"><img class="fa-border w-50 h-auto" src="assets/img/service/services1.jpg" alt=""></a>
+                                <a href="{{ route('unitiendas') }}"><img class="fa-border w-51 h-auto" src="assets/img/service/services1.jpg" alt=""></a>
                             </div>
                             <div class="d-inline-block bg-info mb-2" style="width: 125px; height: 5px;"></div>
                             <p>Un universo de tiendas al alcance de tu mirada, 
@@ -77,7 +77,7 @@
                     <div class="col-12 col-md-6">
                         <div class="single-place mb-30 text-center">
                             <div class="place-img p-5">
-                                <a href="{{ route('mercabal') }}"><img class="fa-border w-50 h-auto" src="assets/img/service/services3.jpg" alt=""></a>
+                                <a href="{{ route('mercabal') }}"><img class="fa-border w-51 h-auto" src="assets/img/service/services3.jpg" alt=""></a>
                             </div>
                             <div class="d-inline-block bg-info mb-2" style="width: 125px; height: 5px;"></div>
                             <p>Te proponemos de forma mayorista productos alimentarios, donde la calidad es garantía y cantidad la porción que buscabas.</p>
@@ -143,11 +143,14 @@
     .single-place img {
     width: 180px;
     height: auto;
-    border-top-left-radius: 30%;
-    border-bottom-right-radius: 30%;
+    border-top-left-radius: 20%;
+    border-bottom-right-radius: 20%;
     background-color: white;
     padding: 12px;
     box-shadow: 0px 0px 50px rgba(185, 55, 223, 0.45)
+}
+.w-51 {
+    width: 80% !important;
 }
 
 .fa-border {
