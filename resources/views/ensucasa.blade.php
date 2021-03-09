@@ -23,7 +23,7 @@
             <div class="col-12">
                 <div class="section-tittle text-center mb-5">                            
                     <h2 class="text-muted mb-0">RESTAURANTES</h2>
-                    <div class="d-inline-block bg-info" style="width: 125px; height: 7px;"></div>
+                    <div class="d-inline-block bg-uno" style="width: 125px; height: 7px;"></div>
                 </div>
                 
             </div>
@@ -31,212 +31,212 @@
         <div class="row justify-content-md-center">
             <div class="wow-pricing-table col col-md-3">
                 <div class="wow-pricing unitienda">
-                    <div class="wow-pricing-header bg-secondary">
+                    <div class="wow-pricing-header bg-dos">
                         <h5>Pinar del Rio</h5>
                     </div>
                     <div class="wow-pricing-content">
                         <br>
-                        <img class="img-fluid" src="assets/img/unitienda/pinar.jpg" alt=""/>
+                        <img class="img-fluid" src="assets/img/ensucasa/ensucasa.jpg" alt=""/>
 
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-dos" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
             <div class="wow-pricing-table col col-md-3">
                 <div class="wow-pricing unitienda-featured">
-                    <div class="wow-pricing-header bg-info">
+                    <div class="wow-pricing-header bg-uno">
                         <h5>Artemisa</h5>
                     </div>
                     <div class="wow-pricing-content">
                         <br>
-                        <img class="img-fluid" src="assets/img/unitienda/artemisa.jpg" alt=""/>
+                        <img class="img-fluid" src="assets/img/ensucasa/ensucasa.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-uno" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
             <div class="wow-pricing-table col col-md-3">
                 <div class="wow-pricing unitienda">
-                    <div class="wow-pricing-header bg-secondary">
+                    <div class="wow-pricing-header bg-dos">
                         <h5>La Habana</h5>
                     </div>
                     <div class="wow-pricing-content">
                         <br>
-                        <img class="img-fluid" src="assets/img/unitienda/habana.jpg" alt=""/>
+                        <img class="img-fluid" src="assets/img/ensucasa/ensucasa.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-dos" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
             <div class="wow-pricing-table col col-md-3">
                 <div class="wow-pricing unitienda-featured">
-                    <div class="wow-pricing-header bg-info">
+                    <div class="wow-pricing-header bg-uno">
                         <h5>Mayabeque</h5>
                     </div>
                     <div class="wow-pricing-content">
                         <br>
-                        <img class="img-fluid" src="assets/img/unitienda/mayabeque.jpg" alt=""/>
+                        <img class="img-fluid" src="assets/img/ensucasa/ensucasa.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-uno" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
             <div class="wow-pricing-table col col-md-3">
                 <div class="wow-pricing unitienda-featured">
-                    <div class="wow-pricing-header bg-secondary">
+                    <div class="wow-pricing-header bg-dos">
                         <h5>Matanzas</h5>
                     </div>
                     <div class="wow-pricing-content">
                         <br>
-                        <img class="img-fluid" src="assets/img/unitienda/matanzas.jpg" alt=""/>
+                        <img class="img-fluid" src="assets/img/ensucasa/ensucasa.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-dos" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
             <div class="wow-pricing-table col col-md-3">
                 <div class="wow-pricing unitienda">
-                    <div class="wow-pricing-header bg-info">
+                    <div class="wow-pricing-header bg-uno">
                         <h5>Cienfuegos</h5>
                     </div>
                     <div class="wow-pricing-content">
                         <br>
-                        <img class="img-fluid" src="assets/img/unitienda/cienfuegos.jpg" alt=""/>
+                        <img class="img-fluid" src="assets/img/ensucasa/ensucasa.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-uno" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
             <div class="wow-pricing-table col col-md-3">
                 <div class="wow-pricing unitienda-featured">
-                    <div class="wow-pricing-header bg-secondary">
+                    <div class="wow-pricing-header bg-dos">
                         <h5>Villa Clara</h5>
                     </div>
                     <div class="wow-pricing-content">
                         <br>
-                        <img class="img-fluid" src="assets/img/unitienda/villa_clara.jpg" alt=""/>
+                        <img class="img-fluid" src="assets/img/ensucasa/ensucasa.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-dos" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
             <div class="wow-pricing-table col col-md-3">
                 <div class="wow-pricing unitienda">
-                    <div class="wow-pricing-header bg-info">
+                    <div class="wow-pricing-header bg-uno">
                         <h5>Sancti Spíritu</h5>
                     </div>
                     <div class="wow-pricing-content">
                         <br>
-                        <img class="img-fluid" src="assets/img/unitienda/sancti.jpg" alt=""/>
+                        <img class="img-fluid" src="assets/img/ensucasa/ensucasa.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-uno" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
             <div class="wow-pricing-table col col-md-3">
                 <div class="wow-pricing unitienda">
-                    <div class="wow-pricing-header bg-secondary">
+                    <div class="wow-pricing-header bg-dos">
                         <h5>Ciego de Ávila</h5>
                     </div>
                     <div class="wow-pricing-content">
                         <br>
-                        <img class="img-fluid" src="assets/img/unitienda/ciego.jpg" alt=""/>
+                        <img class="img-fluid" src="assets/img/ensucasa/ensucasa.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-dos" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
             <div class="wow-pricing-table col col-md-3">
                 <div class="wow-pricing unitienda-featured">
-                    <div class="wow-pricing-header bg-info">
+                    <div class="wow-pricing-header bg-uno">
                         <h5>Camagüey</h5>
                     </div>
                     <div class="wow-pricing-content">
                         <br>
-                        <img class="img-fluid" src="assets/img/unitienda/camaguey.jpg" alt=""/>
+                        <img class="img-fluid" src="assets/img/ensucasa/ensucasa.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-uno" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
             <div class="wow-pricing-table col col-md-3">
                 <div class="wow-pricing unitienda">
-                    <div class="wow-pricing-header bg-secondary">
+                    <div class="wow-pricing-header bg-dos">
                         <h5>Las Tunas</h5>
                     </div>
                     <div class="wow-pricing-content">
                         <br>
-                        <img class="img-fluid" src="assets/img/unitienda/tunas.jpg" alt=""/>
+                        <img class="img-fluid" src="assets/img/ensucasa/ensucasa.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-dos" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
             <div class="wow-pricing-table col col-md-3">
                 <div class="wow-pricing unitienda-featured">
-                    <div class="wow-pricing-header bg-info">
+                    <div class="wow-pricing-header bg-uno">
                         <h5>Holguín</h5>
                     </div>
                     <div class="wow-pricing-content">
                         <br>
-                        <img class="img-fluid" src="assets/img/unitienda/holguin.jpg" alt=""/>
+                        <img class="img-fluid" src="assets/img/ensucasa/ensucasa.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-uno" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
             <div class="wow-pricing-table col col-md-3">
                 <div class="wow-pricing unitienda-featured">
-                    <div class="wow-pricing-header bg-secondary">
+                    <div class="wow-pricing-header bg-dos">
                         <h5>Granma</h5>
                     </div>
                     <div class="wow-pricing-content">
                         <br>
-                        <img class="img-fluid" src="assets/img/unitienda/granma.jpg" alt=""/>
+                        <img class="img-fluid" src="assets/img/ensucasa/ensucasa.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-dos" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
             <div class="wow-pricing-table  col col-md-3">
                 <div class="wow-pricing unitienda">
-                    <div class="wow-pricing-header bg-info">
+                    <div class="wow-pricing-header bg-uno">
                         <h5>Santiago de Cuba</h5>
                     </div>
                     <div class="wow-pricing-content">
                         <br>
-                        <img class="img-fluid" src="assets/img/unitienda/santiago.jpg" alt=""/>
+                        <img class="img-fluid" src="assets/img/ensucasa/ensucasa.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-uno" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
             <div class="wow-pricing-table col col-md-3">
                 <div class="wow-pricing unitienda-featured">
-                    <div class="wow-pricing-header bg-secondary">
+                    <div class="wow-pricing-header bg-dos">
                         <h5>Guantánamo</h5>
                     </div>
                     <div class="wow-pricing-content">
                         <br>
-                        <img class="img-fluid" src="assets/img/unitienda/guantanamo.jpg" alt=""/>
+                        <img class="img-fluid" src="assets/img/ensucasa/ensucasa.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="https://gtm.unitiendas.cinet.cu" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="https://gtm.unitiendas.cinet.cu" class="btn bg-dos" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
@@ -254,6 +254,27 @@
     -webkit-transition: 0.3s;
     -moz-transition: 0.3s;
     transition: 0.3s;
+}
+.bg-dos{
+    background-color: #81252a !important;
+}
+
+.bg-uno {
+    background-color: #e6e401 !important;
+}
+btn-dos
+{
+   
+    color: #fff;
+    background-color: #81252a;
+    border-color: #81252a;
+}
+btn-uno
+{
+    
+    color: #fff;
+    background-color: #e6e401;
+    border-color: #e6e401;
 }
 
 .wow-pricing-table div {
