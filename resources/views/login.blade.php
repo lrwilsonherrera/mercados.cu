@@ -51,7 +51,7 @@
 
   .formulario input {
     background-color: white;
-    box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.08);
+    box-shadow:0px 0px 50px rgb(239, 240, 247);
     border-radius: 50px;
     
     width: 100%;
@@ -62,9 +62,9 @@
     color: #000;
 }
 .color-button {
-    background-image: -moz-linear-gradient(0deg, #06c6f9 0%, #38eaf9 100%);
-    background-image: -webkit-linear-gradient(0deg, #06c6f9 0%, #38eaf9 100%);
-    background-image: -ms-linear-gradient(0deg, #06c6f9 0%, #38eaf9 100%);
+    background-image: -moz-linear-gradient(0deg, #494f9b 0%, #707ae5 100%);
+    background-image: -webkit-linear-gradient(0deg, #494f9b 0%, #707ae5 100%);
+    background-image: -ms-linear-gradient(0deg, #494f9b 0%, #707ae5 100%);
     font-size: 18px;
     font-family: "OpenSans-Semibold";
     color: #fff;
@@ -74,6 +74,7 @@
     text-transform: uppercase;
     height: 50px;
     text-decoration: none !important;
+    box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.08);
 }
 
 .sombra{

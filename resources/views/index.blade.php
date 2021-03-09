@@ -145,10 +145,9 @@
     height: auto;
     border-top-left-radius: 30%;
     border-bottom-right-radius: 30%;
-    border: 1px black solid;
     background-color: white;
-    padding: 10px;
-    box-shadow: 0px 0px 50px 0px rgb(0 0 0 / 80%);
+    padding: 12px;
+    box-shadow: 0px 0px 50px rgba(185, 55, 223, 0.45)
 }
 
 .fa-border {
