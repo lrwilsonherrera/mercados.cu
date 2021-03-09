@@ -40,7 +40,7 @@
 
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-secondary" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
@@ -54,7 +54,7 @@
                         <img class="img-fluid" src="assets/img/unitienda/artemisa.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-info" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
@@ -68,7 +68,7 @@
                         <img class="img-fluid" src="assets/img/unitienda/habana.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-secondary" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
@@ -82,7 +82,7 @@
                         <img class="img-fluid" src="assets/img/unitienda/mayabeque.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-info" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
@@ -96,7 +96,7 @@
                         <img class="img-fluid" src="assets/img/unitienda/matanzas.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-secondary" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
@@ -110,7 +110,7 @@
                         <img class="img-fluid" src="assets/img/unitienda/cienfuegos.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-info" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
@@ -124,7 +124,7 @@
                         <img class="img-fluid" src="assets/img/unitienda/villa_clara.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-secondary" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
@@ -138,7 +138,7 @@
                         <img class="img-fluid" src="assets/img/unitienda/sancti.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-info" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
@@ -152,7 +152,7 @@
                         <img class="img-fluid" src="assets/img/unitienda/ciego.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-secondary" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
@@ -166,7 +166,7 @@
                         <img class="img-fluid" src="assets/img/unitienda/camaguey.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-info" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
@@ -180,7 +180,7 @@
                         <img class="img-fluid" src="assets/img/unitienda/tunas.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-secondary" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
@@ -194,7 +194,7 @@
                         <img class="img-fluid" src="assets/img/unitienda/holguin.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-info" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
@@ -208,7 +208,7 @@
                         <img class="img-fluid" src="assets/img/unitienda/granma.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="#" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="#" class="btn bg-secondary" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
@@ -222,7 +222,7 @@
                         <img class="img-fluid" src="assets/img/unitienda/santiago.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="https://scu.unitiendas.cinet.cu" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="https://scu.unitiendas.cinet.cu" class="btn bg-info" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
@@ -236,7 +236,7 @@
                         <img class="img-fluid" src="assets/img/unitienda/guantanamo.jpg" alt=""/>
                     </div>
                     <div class="wow-pricing-button">
-                        <a href="https://gtm.unitiendas.cinet.cu" class="btn btn-danger" target="_self" rel="nofollow">Entrar</a>
+                        <a href="https://gtm.unitiendas.cinet.cu" class="btn bg-secondary" target="_self" rel="nofollow">Entrar</a>
                     </div>
                 </div>
             </div>
@@ -255,6 +255,7 @@
     -moz-transition: 0.3s;
     transition: 0.3s;
 }
+
 
 .wow-pricing-table div {
     list-style: none;

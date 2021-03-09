@@ -51,7 +51,7 @@
 
   .formulario input {
     background-color: white;
-    box-shadow:0px 0px 50px rgb(239, 240, 247);
+    box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.08);
     border-radius: 50px;
     
     width: 100%;
