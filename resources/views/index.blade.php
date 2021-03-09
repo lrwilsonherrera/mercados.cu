@@ -42,7 +42,7 @@
                     <div class="col-12 col-md-6">
                         <div class="single-place mb-30 text-center">
                             <div class="place-img p-5">
-                                <a href="https://ensucasa.comerciogtm.co.cu"><img class="fa-border w-50 h-auto" src="assets/img/service/services5.jpg" alt=""></a>
+                                <a href="{{ route('ensucasa') }}"><img class="fa-border w-50 h-auto" src="assets/img/service/services5.jpg" alt=""></a>
                             </div>
                             <div class="d-inline-block bg-info mb-2" style="width: 125px; height: 5px;"></div>
                             <p>Desde cualquier parte del mundo reserva variadas ofertas gastronómicas,
