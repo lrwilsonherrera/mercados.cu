@@ -147,7 +147,7 @@
     border-bottom-right-radius: 20%;
     background-color: white;
     padding: 12px;
-    box-shadow: 0px 0px 50px rgba(185, 55, 223, 0.45)
+    box-shadow: 0 8px 20px 0 rgb(108, 117, 125);
 }
 .w-51 {
     width: 80% !important;
