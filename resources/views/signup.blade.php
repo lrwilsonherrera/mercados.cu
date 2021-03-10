@@ -20,7 +20,7 @@
             <div class="col-md-12">
                 <div class="section-tittle text-center mb-6">                            
                     <h2 class="text-muted mb-0">Registrarse</h2>
-                    <br>      
+                    <br>
                     <div class="d-flex align-items-center flex-column" >
                         <form class="formulario">
                             <div class="form-group"><input type="text" maxlength="45" class="form-control" placeholder="Nombre" required></div>
