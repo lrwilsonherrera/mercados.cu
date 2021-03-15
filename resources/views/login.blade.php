@@ -13,30 +13,30 @@
 @endsection
 
 @section('content')
-       
-            <div class="container pb-70 ">
-            <div class="row d-flex justify-content-center">
 
-  <div class="col-md-12">
-  <div class="section-tittle text-center mb-6">                            
-        <h2 class="text-muted mb-0">Autenticar</h2>
-        <br>
-        <div class="d-flex align-items-center flex-column" > 
-            <form class="formulario">
-                <input type="text" class="form-control" placeholder="Usuario">
-                <input type="text" class="form-control f-center" placeholder="Contraseña">
-                
-                    <button class="btn color-button">Entrar</button>
-                
-                    
+<div id="bulevar" class="favourite-place pt-5">
+        <div class="container pb-70 ">
+            <div class="row d-flex justify-content-center">
+                <div class="col-md-12">
+                    <div class="section-tittle text-center mb-6">                            
+                    <h2 class="text-muted mb-0">Autenticar</h2>
+                    <br></br>
+                        <div class="d-flex align-items-center flex-column" > 
+                            <form class="formulario">
+                             <input type="text" class="form-control" placeholder="Usuario">
+                             <input type="text" class="form-control f-center" placeholder="Contraseña">
+                             <button class="btn color-button">Entrar</button>
+                             </form>            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
               
-            </form>
+            
         
-  </div>
-  </div>
-  </div>
-  </div>
-  </div>
+ 
  
   
        

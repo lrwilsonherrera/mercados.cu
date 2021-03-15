@@ -13,36 +13,42 @@
 @endsection
 
 @section('content')
+<div id="bulevar" class="favourite-place testimonial-padding">
        
-            <div class="container pb-70 ">
-            <div class="row d-flex justify-content-center">
-
-  <div class="col-md-12">
-  <div class="section-tittle text-center mb-6">                            
-        <h2 class="text-muted mb-0">Registrar</h2>
-        <br>
-        <div class="d-flex align-items-center flex-column" > 
-            <form class="formulario">
-                <input type="text" class="form-control" placeholder="Nombre">
-                <input type="text" class="form-control" placeholder="Apellidos">
-                <input type="text" class="form-control f-center" placeholder="Teléfono">
-                <input type="text" class="form-control f-center" placeholder="Usuario">
-                <input type="text" class="form-control f-center" placeholder="Contraseña">
-               
-                
-                    <button class="btn color-button">Registrar</button>
-
-                
-                    
+     <div class="container  ">
+        <div class="row d-flex justify-content-center">
+            <div class="col-md-12">
+                <div class="section-tittle text-center mb-6">                            
+                <h2 class="text-muted mb-0">Registrar</h2>
+                <br></br>
+                    <div class="d-flex align-items-center flex-column" > 
+                        <form class="formulario">
+                        <input type="text" class="form-control" placeholder="Nombre de Comercio">
+                        <input type="text" class="form-control f-center" placeholder="Correo Electrónico">
+                        
+                        <div class="select-form ">
+                                        <div class="select-itms">
+                                            <select name="select" id="select1">
+                                            <option value="">Plataforma</option>
+                                                <option value="">ENSUCASA</option>
+                                                <option value="">SERVITIENDAS</option>
+                                                <option value="">BODEGAS</option>
+                                                <option value="">UNITIENDAS</option>
+                                                <option value="">MERCABAL</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                       
+                        <input type="password" class="form-control f-center" placeholder="Contraseña">
+                        <button class="btn color-button">Registrar</button>
+                        </form>  
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>         
               
-            </form>
-        
-  </div>
-  </div>
-  </div>
-  </div>
-  </div>
- 
   
        
 @endsection
@@ -66,6 +72,7 @@
     padding-left: 30px;
     color: #000;
 }
+
 .color-button {
     background-image: -moz-linear-gradient(0deg, #494f9b 0%, #707ae5 100%);
     background-image: -webkit-linear-gradient(0deg, #494f9b 0%, #707ae5 100%);
