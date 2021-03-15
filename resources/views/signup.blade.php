@@ -29,7 +29,7 @@
                         <div class="select-form ">
                                         <div class="select-itms">
                                             <select name="select" id="select1">
-                                            <option value="">Plataforma</option>
+                                            <option value="">PLATAFORMA</option>
                                                 <option value="">ENSUCASA</option>
                                                 <option value="">SERVITIENDAS</option>
                                                 <option value="">BODEGAS</option>
