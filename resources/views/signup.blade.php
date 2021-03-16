@@ -22,13 +22,14 @@
                 <h2 class="text-muted mb-0">Registrar</h2>
                 <br></br>
                     <div class="d-flex align-items-center flex-column" > 
-                        <form class="formulario">
-                        <input type="text" class="form-control" placeholder="Nombre de Comercio">
-                        <input type="text" class="form-control f-center" placeholder="Correo Electrónico">
+                        <form method="POST" action="{{ route('register') }}" class="formulario">
+                            @csrf
+                        <input type="text" name="name" class="form-control" placeholder="Nombre de Comercio" required>
+                        <input type="text" name="email" class="form-control f-center" placeholder="Correo Electrónico" required>
                         
-                        <div class="select-form ">
+                        <div class="select-form">
                                         <div class="select-itms">
-                                            <select name="select" id="select1">
+                                            <select name="platform" id="select1" required>
                                             <option value="">PLATAFORMA</option>
                                                 <option value="">ENSUCASA</option>
                                                 <option value="">SERVITIENDAS</option>
@@ -39,8 +40,8 @@
                                         </div>
                                     </div>
                        
-                        <input type="password" class="form-control f-center" placeholder="Contraseña">
-                        <button class="btn color-button">Registrar</button>
+                        <input type="password" name="password" class="form-control f-center" placeholder="Contraseña" required>
+                        <button type="submit" class="btn color-button">Registrar</button>
                         </form>  
                     </div>
                 </div>
